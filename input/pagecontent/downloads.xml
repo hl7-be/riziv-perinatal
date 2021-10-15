@@ -45,4 +45,6 @@
 			</tr>
 		</tbody>
 	</table>
+
+	{% include fragment-servers.html %}
 </div>
